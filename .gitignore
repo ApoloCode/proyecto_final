@@ -1,7 +1,0 @@
-.idea
-*.png
-*.jpg
-data
-*.csv
-.env
-.gitignore
