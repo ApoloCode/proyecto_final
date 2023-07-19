@@ -2,3 +2,7 @@
 .env
 *.txt
 data
+datos_finales_dashboard
+*.csv
+*.xlsx
+*.pptx
